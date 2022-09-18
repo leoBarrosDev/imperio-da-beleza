@@ -28,7 +28,7 @@ body {
 .home {
   position: relative;
   background-size: cover;
-  background-image: url(/images/bg_cinza.png);
+  background-image: url('../images/bg_cinza.png');
   height: 100vh; /* viewport height */
   background-attachment: fixed;
 }
@@ -128,7 +128,7 @@ body {
   top: -50px;
   width: 33%;
   padding: 20px;
-  background-image: url(/images/worktools.jpg);
+  background-image: url('../images/worktools.jpg');
 }
 
 .about .timing .overlay {
@@ -271,7 +271,7 @@ body {
   padding: 100px 0;
   background-color: var(--color-primary);
   height: 100vh;
-  background-image: url(/images/secador.png);
+  background-image: url('../images/secador.png');
   /* background-image: url(../images/cadeira-lavatorio-removebg-preview\ \(2\).png); */
   background-repeat: no-repeat;
   background-position: right bottom;
